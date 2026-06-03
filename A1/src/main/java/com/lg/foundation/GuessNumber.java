@@ -40,7 +40,7 @@ public class GuessNumber {
     }
 
     /**
-     * 猜数字游戏
+     * Game menu
      */
     public static void guessNumber() {
         System.out.println("====The Game Begins====");
@@ -50,7 +50,7 @@ public class GuessNumber {
     }
 
     /**
-     * 获取用户输入的数字
+     * Get a number from the user.
      *
      * @return
      */
@@ -60,7 +60,7 @@ public class GuessNumber {
     }
 
     /**
-     * 判断数字大小
+     * Compare numbers
      *
      * @param systemNumber 系统生产的数字
      * @param playerInput  玩家输入的数字
