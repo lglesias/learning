@@ -1,4 +1,4 @@
-package src.main.java.com.lg.oop;
+package src.main.java.com.lg.oop.MovieTest;
 
 /**
  * TODO：功能描述

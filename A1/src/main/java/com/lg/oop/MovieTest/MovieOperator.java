@@ -1,4 +1,4 @@
-package src.main.java.com.lg.oop;
+package src.main.java.com.lg.oop.MovieTest;
 
 import java.util.Scanner;
 
